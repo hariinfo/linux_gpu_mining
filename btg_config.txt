@@ -1,0 +1,13 @@
+-zpool eu.pool.gold:3044
+-zwal GLqxdSqQC1K1F4X7rUCVEHcYj6eH9BydXq.worker01
+-zpsw z
+-ftime 1
+-tstop 85
+-tt 65
+-fanmin 65
+-fanmax 100
+-r 1
+-cclock 1150
+-mclock 2100
+-cvddc 900
+-mvddc 900
